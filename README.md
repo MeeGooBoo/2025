@@ -11,7 +11,7 @@
 
 > [!CAUTION]
 >
-> 本仓库所有内容均来自互联网公开内容，请勿用于严重的违法用途 ，请勿相信资源中的广告，主动联系你的都是骗子，提高智商谨防上当受诈！
+> 本仓库所有内容均来自互联网公开内容 ，请勿相信资源中的广告，主动联系你的都是骗子，提高智商谨防上当受诈！
 
 ****
 
@@ -20,6 +20,11 @@
 > [!NOTE]
 >
 > 如果你觉得本仓库对你有帮助，你可以赞助我们一杯咖啡，鼓励我们继续维护下去。
+> 通过Paypal支持我：https://paypal.me/MoGuoBiao
+> 成为我的Patreon会员：https://patreon.com/MeeGooBoo   
+> 通过比特币支持我：bc1qkwrq5plek62fmfaynyphfuuepm6cxd4fsh5wrp
+
+
 
 <p align="center" >
     <img src="https://raw.githubusercontent.com/MeeGooBoo/2025/refs/heads/main/static/imgs/logo.png" width="150">

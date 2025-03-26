@@ -19,9 +19,9 @@
 
 > [!NOTE]
 >
-> 如果你觉得本仓库对你有帮助，你可以赞助我们一杯咖啡，鼓励我们继续维护下去。
-> 通过Paypal支持我：https://paypal.me/MoGuoBiao
-> 成为我的Patreon会员：https://patreon.com/MeeGooBoo   
+> 如果你觉得本仓库对你有帮助，你可以赞助我们一杯咖啡，鼓励我们继续维护下去。<br>
+> 通过Paypal支持我：https://paypal.me/MoGuoBiao<br>
+> 成为我的Patreon会员：https://patreon.com/MeeGooBoo<br>
 > 通过比特币支持我：bc1qkwrq5plek62fmfaynyphfuuepm6cxd4fsh5wrp
 
 
